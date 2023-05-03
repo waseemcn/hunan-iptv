@@ -1,5 +1,5 @@
 # 湖南IPTV直播源(hunan-iptv) 最新更新时间：2023/4/21
-湖南IPTV直播源
+湖南（移不动）IPTV直播源
 
 # 文件描述
 iptv.js JSON数据转M3U8格式和文件生成
